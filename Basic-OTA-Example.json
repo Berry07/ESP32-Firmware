@@ -2,7 +2,7 @@
 		"Configurations": [
 			{
 			"Version": "1.0.1",
-			"URL": "https://github.com/Berry07/ESP32-Firmware/blob/main/R13_06Hb_15_004g_C6_ADS1256_06a.ino.esp32c6.bin"
+			"URL": "https://raw.githubusercontent.com/Berry07/ESP32-Firmware/refs/heads/main/R13_06Hb_15_004g_C6_ADS1256_06a.ino.esp32c6.bin"
 			}
 		]
 	}
